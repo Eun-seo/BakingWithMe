@@ -1,0 +1,8 @@
+[{"recipeCode":"cookie","step":1,"content":"준비한 볼에 버터를 담은 뒤 주걱으로 부드럽게 \n풀어주세요.","picture":"","timer":null,"guide":"","object3D":"","popup":null,"tip":"버터는 실온에 미리 꺼내 두어 \n부드러운 상태로 사용해주세요."},
+{"recipeCode":"cookie","step":2,"content":"볼에 흑설탕을 넣고 버터와 대충 섞일 만큼만 \n섞어주세요.","picture":"TRUE","timer":null,"guide":"","object3D":"","popup":null,"tip":"너무 섞으면 설탕이 녹아서 쿠키를 구웠을 때 \n촉촉하지 않아요."},
+{"recipeCode":"cookie","step":3,"content":"볼에 소금과 계란, 바닐라 익스트랙을 넣고 반죽이 \n분리되지 않도록 빠르게 섞어주세요.","picture":"TRUE","timer":null,"guide":"","object3D":"","popup":null,"tip":""},
+{"recipeCode":"cookie","step":4,"content":"반죽에 초코칩을 넣고 박력분과 베이킹소다를 \n체 쳐서 넣어주세요.","picture":"","timer":null,"guide":"","object3D":"","popup":null,"tip":""},
+{"recipeCode":"cookie","step":5,"content":"반죽이 덩어리지고 질어지지 않도록 빠르게 주걱으로 \n자르듯이 섞어주세요.","picture":"TRUE","timer":null,"guide":"","object3D":"spatular","popup":null,"tip":"오븐을 170도로 미리 예열해주세요."},
+{"recipeCode":"cookie","step":6,"content":"스쿱으로 반죽을 아기 주먹 사이즈만큼 퍼서 유산지를 \n깐 팬 위에 넓은 간격으로 팬닝해주세요.","picture":"","timer":null,"guide":"cookie1","object3D":"","popup":null,"tip":""},
+{"recipeCode":"cookie","step":7,"content":"팬닝한 반죽 윗부분을 손으로 살짝 눌러주세요.","picture":"","timer":null,"guide":"","object3D":"","popup":null,"tip":""},
+{"recipeCode":"cookie","step":8,"content":"예열된 170도 오븐에 15분 동안 구워주세요.","picture":"","timer":null,"guide":"","object3D":"","popup":0.15,"tip":""}]

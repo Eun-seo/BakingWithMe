@@ -1,0 +1,72 @@
+[
+    {
+        "content": "냄비에 버터(125g)를 담아 중 약불에 올려 \n 갈색이 되도록 끓여주세요.",
+        "picture": "1",
+        "timer": "FALSE",
+        "guide": "FALSE",
+        "object3D": "FALSE"
+    },
+   {
+      "content":"버터를 체에 한번 걸러 볼에 담은 후 식혀주세요",
+      "picture":"FALSE",
+      "timer":"FALSE",
+      "guide":"FALSE",
+      "object3D":"FALSE"
+   },
+   {
+      "content":"흑설탕(65g), 백설탕(100g) 두 가지를 넣고 \n 거품기로 1분동안 섞어주세요. \n (설탕 입자가 느껴질 정도로만 섞어주세요)",
+      "picture":"FALSE",
+      "timer":"1",
+      "guide":"FALSE",
+      "object3D":"FALSE"
+   },
+    {
+        "content": "계란 1개와 바닐라 익스트랙(4ml)을 넣고 \n 섞어주세요.",
+        "picture": "FALSE",
+        "timer": "FALSE",
+        "guide": "FALSE",
+        "object3D": "FALSE"
+    },
+    {
+        "content": "박력분(100g)과 강력분(130g), \n 베이킹 소다(3g)를 함께 체에 쳐 넣어주세요.",
+        "picture": "FALSE",
+        "timer": "FALSE",
+        "guide": "FALSE",
+        "object3D": "FALSE"
+    },
+    {
+        "content": "소금(1g)을 넣고 가루 재료가 살짝 보일 때까지 \n 섞어주세요.",
+        "picture": "1",
+        "timer": "FALSE",
+        "guide": "FALSE",
+        "object3D": "1"
+    },
+    {
+        "content": "초코칩을 넣고 주걱으로 가루가 보이지 \n 않을 때까지 가볍게 섞어주세요.",
+        "picture": "1",
+        "timer": "FALSE",
+        "guide": "FALSE",
+        "object3D": "FALSE"
+    },
+    {
+        "content": "45g씩 스푼으로 떠서 오븐 팬 위에 \n 넓은 간격으로 올려주세요. \n (오븐 팬에 유산지를 깔아주세요.)",
+        "picture": "FALSE",
+        "timer": "FALSE",
+        "guide": "1",
+        "object3D": "FALSE"
+    },
+   {
+      "content":"팬닝한 반죽 윗부분을 살짝 눌러주세요.",
+      "picture":"FALSE",
+      "timer":"FALSE",
+      "guide":"FALSE",
+      "object3D":"1"
+   },
+   {
+      "content":"예열된 170도 오븐에 13분 정도 구워줍니다.",
+      "picture":"FALSE",
+      "timer":"13",
+      "guide":"FALSE",
+      "object3D":"FALSE"
+   }
+]
